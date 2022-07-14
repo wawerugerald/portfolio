@@ -17,7 +17,7 @@ const header = () => {
 
       <div className="mugumo__header-content__people">
         <img src={people} alt='people on the program'/>
-        <p>1600 people requested access to our pilot program in the last 24 hours</p>
+        <p>1600 people requested access to my portfolio</p>
       </div>
     </div>
 
